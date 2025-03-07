@@ -1,0 +1,31 @@
+form{
+    text-align: center;
+    background-color: rgb(197, 210, 222);
+    height: 100%;
+}
+#Hphoto{
+    height: 70px;
+    width: 300px;
+    border-radius: 7px;
+}
+select{
+    height: 22px;
+    width: 170px;
+    border-radius: 3px;
+    width: 250px;
+}
+textarea{
+    width: 250px;
+    border-radius: 4px;
+}
+#btn{
+    height: 22px;
+    width: 300px;
+    background-color: rgb(243, 58, 230);
+    border-radius: 5px;
+}
+
+input{
+    border-radius: 2px;
+    width: 250px;
+}
